@@ -1,5 +1,5 @@
 ### Hi there 👋
-Kırıkkale Ünivers@gmail.comitesi Master of Arts /MA/🎓 
+Kırıkkale Üniversitesi Master of Arts /MA/🎓 
 
 📈📊 Finance Branch Manager
 
