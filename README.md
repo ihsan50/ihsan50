@@ -2,21 +2,13 @@
 Kırıkkale Üniversitesi Master of Arts /MA/🎓 
 
 📈📊 Finance Branch Manager 
-
 👨‍💻Student at Clarusway 🖥 Full Stack Developer | ReactJS | JS | HTML | CSS | Sass | Bootstrap
-
 🌱 I’m currently learning Python, SQL, Git&GitHub, HTML, CSS, JS, Java,.
-
 👯 Enthusiastic Full-Stack Developer eager to contribute to team success through hard work, attention to details and excellent organizational skills.
-
 👨‍💻 Motivated to learn, grow and excel in IT industry.
-
 ✨ A lifelong learner.
-
 📫 How to reach me;
-
 Gmail:     ihsancetin@gmail.com
-
 Linkedin : linkedin.com/in/ihsan-çetin-77a22a1a1
 
 
