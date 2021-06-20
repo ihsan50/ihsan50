@@ -12,9 +12,7 @@ Kırıkkale Üniversitesi Master of Arts /MA/🎓
 👨‍💻 Motivated to learn, grow and excel in IT industry.
 
 📫 How to reach me;
-Gmail    :  https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
-
-https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white : linkedin.com/in/ihsan-çetin-77a22a1a1
+https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white : 
 
 ![121217784-d89ad580-c88a-11eb-9479-b6cc0600378f](https://user-images.githubusercontent.com/81583304/122689335-777be600-d22a-11eb-962a-daabc06e3f30.png)
 [![Khuyen's github stats](https://github-readme-stats.vercel.app/api?username=khuyentran1401&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
