@@ -13,7 +13,7 @@ Kırıkkale Üniversitesi Master of Arts /MA/🎓
 
 📫 How to reach me;
 Gmail:     ihsancetin@gmail.com
-Linkedin : linkedin.com/in/ihsan-çetin-77a22a1a1
+Linkedin : /linkedin.com/in/ihsan-çetin-77a22a1a1
 
 
 ![121217784-d89ad580-c88a-11eb-9479-b6cc0600378f](https://user-images.githubusercontent.com/81583304/122689335-777be600-d22a-11eb-962a-daabc06e3f30.png)
