@@ -16,6 +16,6 @@ Kırıkkale Üniversitesi Master of Arts /MA/🎓
 Gmail: ihsancetin92@gmail.com
 
 ![121217784-d89ad580-c88a-11eb-9479-b6cc0600378f](https://user-images.githubusercontent.com/81583304/122689335-777be600-d22a-11eb-962a-daabc06e3f30.png)
-[![Khuyen's github stats](https://github-readme-stats.vercel.app/api?username=khuyentran1401&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
+[![ihsan github stats](https://github-readme-stats.vercel.app/api?username=khuyentran1401&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
