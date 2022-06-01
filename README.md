@@ -52,7 +52,7 @@ Kırıkkale Üniversitesi Master of Arts /MA/🎓
 
 </p>
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=hasan-furkan&theme=buefy " alt="my github stats" width="49%"/>&nbsp;
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=hasan-furkan&theme=buefy&" alt="my commit status" width="49%" /> </p>
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasan-furkan&theme=buefy &layout=compact" alt="languages" width="49%" > 
+<img src="https://github-readme-stats.vercel.app/api?username=ihsancetinn&theme=buefy " alt="my github stats" width="49%"/>&nbsp;
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ihsancetinn&theme=buefy&" alt="my commit status" width="49%" /> </p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ihsancetinn&theme=buefy &layout=compact" alt="languages" width="49%" > 
  </p>
