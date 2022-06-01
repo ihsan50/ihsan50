@@ -4,21 +4,15 @@ Kırıkkale Üniversitesi Master of Arts /MA/🎓
 
 📈📊 Finance Branch Manager
 
- 🖥 Full Stack Developer | ReactJS | JS | HTML | CSS | Sass | Bootstrap
+ 🖥 Full Stack Developer | ReactJS | JS | HTML | CSS | Sass | Bootstrap | Javascript | Angularjs
 
-🌱 I’m currently learning Python, SQL, Git&GitHub, HTML, CSS, JS, Java,.
+🌱 I’m currently learning Python, SQL, Git&GitHub, HTML, CSS, JS, Javascript.
 
 👯 Enthusiastic Full-Stack Developer eager to contribute to team success through hard work, attention to details and excellent organizational skills.
 
 👨‍💻 Motivated to learn, grow and excel in IT industry.
 
 📫 How to reach me;
-
-Gmail: ihsancetin92@gmail.com
-
-- 🔭 I’m currently working on frontend and mobile app development (JavaScript | React | Angularjs)
-- 🌱 I’m currently learning backend development (Django) 
-- 💬 Ask me about anything that you want to learn 
 
 
 [![Linkedin: VPA](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/hasan-furkan-koprulu/](https://www.linkedin.com/in/ihsan-cetinn/)
