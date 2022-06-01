@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there I'm İhsan👋
+
 Kırıkkale Üniversitesi Master of Arts /MA/🎓 
 
 📈📊 Finance Branch Manager
@@ -20,10 +21,9 @@ Gmail: ihsancetin92@gmail.com
 - 💬 Ask me about anything that you want to learn 
 
 
-[![Linkedin: VPA](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hasan-furkan-koprulu/)
-[![website](https://img.shields.io/badge/stackoverflow-c8d6e5.svg?&style=for-the-badge&logo=stackoverflow&logoColor=orange)](https://stackoverflow.com/users/15763253/krnsoo)
-[![website](https://img.shields.io/badge/gmail-f1f2f6.svg?&style=for-the-badge&logo=gmail&logoColor=red)](mailto:hsnfrkn32@gmail.com)
-[![website](https://img.shields.io/badge/%20-medium-black?&style=for-the-badge&logoColor=white)](https://medium.com/@hsnfrkn32)
+[![Linkedin: VPA](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/hasan-furkan-koprulu/](https://www.linkedin.com/in/ihsan-cetinn/)
+[![website](https://img.shields.io/badge/gmail-f1f2f6.svg?&style=for-the-badge&logo=gmail&logoColor=red)](mailto:ihsancetin92@gmail.com)
+
 
 
 ## 💻 Frontend
