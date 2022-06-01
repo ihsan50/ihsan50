@@ -4,7 +4,7 @@ Kırıkkale Üniversitesi Master of Arts /MA/🎓
 
 📈📊 Finance Branch Manager
 
-🖥 Full Stack Developer | ReactJS | JS | HTML | CSS | Sass | Bootstrap | Javascript | Angularjs | Django| MongoDB
+🖥 Full Stack Developer | ReactJS | HTML | CSS | Sass | Bootstrap | Javascript | Angularjs | Django| MongoDB
 
 👯 Enthusiastic Full-Stack Developer eager to contribute to team success through hard work, attention to details and excellent organizational skills.
 
