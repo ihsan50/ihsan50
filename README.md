@@ -15,7 +15,7 @@ Kırıkkale Üniversitesi Master of Arts /MA/🎓
 📫 How to reach me;
 
 
-[![Linkedin: VPA](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/hasan-furkan-koprulu/](https://www.linkedin.com/in/ihsan-cetinn/)
+[![Linkedin: VPA](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ihsan-cetinn/)
 [![website](https://img.shields.io/badge/gmail-f1f2f6.svg?&style=for-the-badge&logo=gmail&logoColor=red)](mailto:ihsancetin92@gmail.com)
 
 
