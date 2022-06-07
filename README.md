@@ -56,4 +56,5 @@ Kırıkkale Üniversitesi Master of Arts /MA/🎓
  </p>
 
 
-![source](https://user-images.githubusercontent.com/81583304/172396605-54b52575-897a-4d49-8bd1-7308cdaa828e.gif)
+![source (1)](https://user-images.githubusercontent.com/81583304/172397138-92cada18-1d07-4a73-96b1-0df0d3c9f0af.gif)
+
