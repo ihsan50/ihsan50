@@ -54,8 +54,10 @@ Kırıkkale Üniversitesi Master of Arts /MA/🎓
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=ihsancetinn&theme=buefy&" alt="my commit status" width="49%" /> </p>
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ihsancetinn&theme=buefy &layout=compact" alt="languages" width="49%" > 
  </p>
+ <p align="center"> <img src="https://user-images.githubusercontent.com/81583304/172399580-c6ac0263-ed22-4a98-8933-bb667bda1e79.gif" alt="languages" width="49%" > 
+ </p>
  
- ![source (1)](https://user-images.githubusercontent.com/81583304/172399580-c6ac0263-ed22-4a98-8933-bb667bda1e79.gif) 
+
 
 
 
