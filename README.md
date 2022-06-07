@@ -55,7 +55,7 @@ Kırıkkale Üniversitesi Master of Arts /MA/🎓
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ihsancetinn&theme=buefy &layout=compact" alt="languages" width="49%" > 
  </p>
  
-<div align="center"> ![source (1)](https://user-images.githubusercontent.com/81583304/172399580-c6ac0263-ed22-4a98-8933-bb667bda1e79.gif)  </div>
+ ![source (1)](https://user-images.githubusercontent.com/81583304/172399580-c6ac0263-ed22-4a98-8933-bb667bda1e79.gif) 
 
 
 
