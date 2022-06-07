@@ -23,7 +23,7 @@ Kırıkkale Üniversitesi Master of Arts /MA/🎓
 <a href="#" target="_blank"> <img src="https://icons-for-free.com/iconfiles/png/512/icon++html+icon-1320194800994962643.png" alt="html" height="60"/> </a>
 <a href="#" target="_blank"> <img src="https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/css/css.png" alt="css" height="60"/> </a>
 <a href="#" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/2108/PNG/512/javascript_icon_130900.png" alt="js" height="60"/> </a>
-<a href="#" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/2415/PNG/128/angularjs_original_wordmark_logo_icon_146650.png" alt="Angularjs" height="60"/> </a>
+<a href="#" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/2699/PNG/128/angular_logo_icon_169595.png" alt="Angularjs" height="60"/> </a>
 <a href="#" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/react_original_wordmark_logo_icon_146375.png" border:1px solid red alt="react" width="60"/> </a>
 <a href="#" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/sass-1.svg" alt="sass" height="50"/> </a>
 <a href="#" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/4/49/Redux.png" alt="redux" height="60"/> </a>
