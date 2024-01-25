@@ -20,7 +20,7 @@ Kırıkkale Üniversitesi Master of Arts /MA/🎓
 
 ## 💻 Frontend
 
-<a href="#" target="_blank"> <img src="https://icons-for-free.com/iconfiles/png/512/icon++html+icon-1320194800994962643.png" alt="html" height="60"/> </a>
+<a href="#" target="_blank"> <img src="https://icons8.com/icon/v8RpPQUwv0N8/html-5" alt="html" height="60"/> </a>
 <a href="#" target="_blank"> <img src="https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/css/css.png" alt="css" height="60"/> </a>
 <a href="#" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/2108/PNG/512/javascript_icon_130900.png" alt="js" height="60"/> </a>
 <a href="#" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/2699/PNG/128/angular_logo_icon_169595.png" alt="Angularjs" height="60"/> </a>
